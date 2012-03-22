@@ -1,16 +1,16 @@
 beaglebone: Cloud9-IDE configured for angstrom v2012.03-core
 Configured metadata layers:
-meta-angstrom     = "master:51ba0dd081af1d7de56ffc9fb318044bc3c7c47e"
+meta-angstrom     = "master:9540cd1dc77f8b509dfde72c215707e586892ed5"
 meta-oe           
 meta-efl          
 meta-gpe          
 meta-gnome        
 meta-xfce         
-meta-initramfs    = "master:43967617897d491dd43903f4015bebddcfbb9727"
-meta-java         = "master:f9672f4d50fe66d5c6c5949f9899e66c089c9b2e"
+meta-initramfs    = "master:be8eaf1c92e6e1fbd678d95c3b309d0b1af252af"
+meta-java         = "master:e90110b85733f9cdda26861bc29588257173c11c"
 meta-mozilla      = "master:5737d9fa26a632a27b2aa760c0d01190f0a17d0e"
 meta-mono         = "master:83f8233b0498aadb18bf7605c3ba6c71d9e13a3a"
-meta-ti           = "master:43956e56dba61709a4b01bb4ed6c4a28cef19d30"
+meta-ti           = "master:171b2fedd0dfc7f2843827f723ff0f20f72f369b"
 meta-ettus        = "master:5a6a642f6707dc42a5210dbbf01d2bdfd869d4b0"
 meta-efikamx      = "master:2c09a3a780b23448e8a6ca964256ff7f5ccba65d"
 meta-nslu2        = "master:3d9fc951b05b4df476374b6fc3085ebac7f293ee"
@@ -18,7 +18,7 @@ meta-htc
 meta-nokia        
 meta-openmoko     
 meta-palm         = "master:1af999cd2ce27fe06225336a5e62a262635968e9"
-meta-handheld     = "master:fa1e6dcb524eb7ed29a6cd971a150d35c31e96e7"
+meta-handheld     = "master:f2904e00c9c709d1f40e4a93f0f552f882bacf4f"
 meta-intel        
 meta-sugarbay     
 meta-crownbay     
@@ -26,6 +26,6 @@ meta-emenlow
 meta-fishriver    
 meta-fri2         
 meta-jasperforest 
-meta-n450         = "master:87f409827684e39484900a20531c8a14c0cb91e6"
-meta              = "angstrom-staging:5121b086f8cb05951e871581248ec90267b22a6a"
+meta-n450         = "master:1ada91f40c9c7684ec0963c72de20c639c42ec70"
+meta              = "angstrom-staging:edca6e7ca3c4c5c78b08e795e7db0f503a7f7ef8"
 
